@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm George</h1>
 <h3 align="center">An upcoming developer from Greece</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=georgek04&label=Profile%20views&color=0e75b6&style=flat" alt="georgek04" /> </p>
 
 - 🔭 I’m currently working on **an Android and Desktop Game**
 
