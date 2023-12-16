@@ -2,9 +2,9 @@
 <h3 align="center">An upcoming developer from Greece</h3>
 
 
-- 🔭 I’m currently working on **an Android and Desktop Game**
+- 🔭 I’m currently working on **Desktop Game**
 
-- 🌱 I’m currently learning **Android Studio and Python**
+- 🌱 I’m currently learning **Python and CyberSecurity**
 
 <p align="left">
 </p>
